@@ -1,4 +1,4 @@
-
+<!-- Failed to upload "Car Pixel Art GIF by Raw Fury.gif" -->
 
 <div align="center">
   <img src="LINK_TO_YOUR_KNIGHT_IMAGE.jpg" width="100%" alt="The Resting Knight" />
