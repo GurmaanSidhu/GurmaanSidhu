@@ -17,20 +17,16 @@
 </div>
 
 ---
-### ⚔️ The Identity
-I am a **3rd Year CSE Undergraduate** and an aspiring **Machine Learning Engineer**. 
-
-Like a blacksmith forging steel, I am currently tempering my skills in the fires of algorithms and data. I do not seek to merely exist within the digital realm; I seek to alter its very fabric. My path is not one of maintenance, but of **creation**.
+<span align="left">
+<h3></h3> ⚔️ The Identity </h3>
+<p>I am a **3rd Year CSE Undergraduate** and an aspiring **Machine Learning Engineer**. <p>
 
 > *"I am searching for the spark that rivals the birth of the Internet—a revolution written in code."*
-
----
-### 📜 The Creed of the Ronin
-I walk the path of the **Independent Coder**. 
-
-I build for the sake of the craft itself. I believe that true innovation comes from the freedom of open source and the unyielding will to build what *must* be built.
+</span>
+<span align = "right">
+📜 The Creed of the Ronin
+I walk the path of the **Independent Coder**.
 
 * **No Masters:** I code by will, not by wage.
-* **The Goal:** To leave a dent in the universe, to create systems that outlive their creator.
-* **The Method:** Deep research, relentless implementation, and radical transparency.
+</span>
 ---
