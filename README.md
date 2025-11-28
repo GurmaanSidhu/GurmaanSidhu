@@ -17,16 +17,33 @@
 </div>
 
 ---
-<span align="left">
-<h3></h3> ⚔️ The Identity </h3>
-<p>I am a **3rd Year CSE Undergraduate** and an aspiring **Machine Learning Engineer**. <p>
+<table>
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>⚔️ The Identity</h3>
+      <p>
+        I am a <b>3rd Year CSE Undergraduate</b> and an aspiring <b>Machine Learning Engineer</b>.
+      </p>
+      <br/>
+      <blockquote>
+        <i>"I am searching for the spark that rivals the birth of the Internet—a revolution written in code."</i>
+      </blockquote>
+    </td>
 
-> *"I am searching for the spark that rivals the birth of the Internet—a revolution written in code."*
-</span>
-<span align = "right">
-📜 The Creed of the Ronin
-I walk the path of the **Independent Coder**.
-
-* **No Masters:** I code by will, not by wage.
-</span>
----
+    <td width="50%" valign="top" align="right" style="border: none;">
+      <h3>📜 The Creed of the Ronin</h3>
+      <p>
+        I walk the path of the <b>Independent Coder</b>.
+      </p>
+      <br/>
+      <p>
+        <b>No Masters</b> 🚫<br/>
+        <i>I code by will, not by wage.</i>
+      </p>
+      <p>
+        <b>The Mission</b> 🎯<br/>
+        <i>To create works that outlive the creator.</i>
+      </p>
+    </td>
+  </tr>
+</table>
