@@ -15,7 +15,22 @@
   </p>
 </div>
 
----
+
+
+<div style="display: flex; width: 100%; gap: 20px;">
+
+  <div style="flex: 1;">
+    <h3>Left Section</h3>
+    <p>Your content goes here. Text, links, lists, anything.</p>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Right Section</h3>
+    <p>Your content goes here. Text, links, lists, anything.</p>
+  </div>
+
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top" style="border: none;">
