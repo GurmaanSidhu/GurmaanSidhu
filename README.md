@@ -1,5 +1,6 @@
+<img src="![Car Pixel Art GIF by Raw Fury (1)](https://github.com/user-attachments/assets/7dd41ac7-260d-4680-8bee-0ec1151a6079)" width="100%" />
 
-![Car Pixel Art GIF by Raw Fury (1)](https://github.com/user-attachments/assets/7dd41ac7-260d-4680-8bee-0ec1151a6079)
+
 
 <div align="center">
   <img src="LINK_TO_YOUR_KNIGHT_IMAGE.jpg" width="100%" alt="The Resting Knight" />
