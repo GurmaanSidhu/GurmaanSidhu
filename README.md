@@ -20,16 +20,25 @@
 <div style="display: flex; width: 100%; gap: 20px;">
 
   <div style="flex: 1;">
-    <h3>Left Section</h3>
-    <p>Your content goes here. Text, links, lists, anything.</p>
+    <h3>🌑 About Me</h3>
+    <ul>
+      <li>Data Science Student</li>
+      <li>Machine Learning Engineer</li>
+      <li>I build real-time systems & dashboards</li>
+    </ul>
   </div>
 
   <div style="flex: 1;">
-    <h3>Right Section</h3>
-    <p>Your content goes here. Text, links, lists, anything.</p>
+    <h3>🛠️ Tech Stack</h3>
+    <ul>
+      <li>Python, Pandas, NumPy</li>
+      <li>Scikit-Learn, Matplotlib</li>
+      <li>Flask, PowerBI, Excel</li>
+    </ul>
   </div>
 
 </div>
+
 
 <table>
   <tr>
