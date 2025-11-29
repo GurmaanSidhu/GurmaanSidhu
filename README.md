@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/GurmaanSidhu/GurmaanSidhu/main/Car%20Pixel%20Art%20GIF%20by%20Raw%20Fury.gif" width="100%" height="auto" />
+<img src="https://raw.githubusercontent.com/GurmaanSidhu/GurmaanSidhu/main/Car%20Pixel%20Art%20GIF%20by%20Raw%20Fury.gif" width="100%" height="20%" />
 
 
 <div align="center">
