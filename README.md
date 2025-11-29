@@ -5,6 +5,7 @@
   </p>
 </div>
 
-<div>
-  <h2>The Identity</h2>
-</div>
+### ⚔️ THE IDENTITY
+**Role:** Machine Learning Engineer
+**Current Status:** 3rd Year CSE Undergraduate
+> *"I am searching for the spark that rivals the birth of the Internet—a revolution written in code.*
