@@ -1,5 +1,5 @@
-<img src="![Car Pixel Art GIF by Raw Fury (1)](https://github.com/user-attachments/assets/7dd41ac7-260d-4680-8bee-0ec1151a6079)" width="100%" />
 
+<img src="https://raw.githubusercontent.com/GurmaanSidhu/GurmaanSidhu/main/Car%20Pixel%20Art%20GIF%20by%20Raw%20Fury.gif" width="100%" height="auto" />
 
 
 <div align="center">
