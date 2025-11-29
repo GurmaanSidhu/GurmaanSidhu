@@ -1,13 +1,5 @@
 
-
-<p align="center">
-  <img src="![From KlickPin CF Pin by IMAGENESDEFONDO on imagenes de fondo in 2025 _ Anime drawings Anime artwork wallpaper Anime](https://github.com/user-attachments/assets/5a7e749d-c83f-4750-a11f-7ce055b08075)" alt="banner" width="100%" style="max-height:220px; object-fit:cover;"/>
-</p>
-
-
 <div align="center">
-  <img src="LINK_TO_YOUR_KNIGHT_IMAGE.jpg" width="100%" alt="The Resting Knight" />
-
   <h1> // THE ARCHITECT OF DUST </h1>
   
   <p>
