@@ -16,11 +16,10 @@
 </div>
 
 
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
 
-<div style="display: flex; width: 100%; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>🌑 About Me</h3>
+  <div style="width: 48%;">
+    <h3>🟣 About Me</h3>
     <ul>
       <li>Data Science Student</li>
       <li>Machine Learning Engineer</li>
@@ -28,8 +27,8 @@
     </ul>
   </div>
 
-  <div style="flex: 1;">
-    <h3>🛠️ Tech Stack</h3>
+  <div style="width: 48%;">
+    <h3>🛠 Tech Stack</h3>
     <ul>
       <li>Python, Pandas, NumPy</li>
       <li>Scikit-Learn, Matplotlib</li>
@@ -38,6 +37,7 @@
   </div>
 
 </div>
+
 
 
 <table>
