@@ -16,27 +16,32 @@
 </div>
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
 
-  <div style="width: 48%;">
-    <h3>🟣 About Me</h3>
-    <ul>
-      <li>Data Science Student</li>
-      <li>Machine Learning Engineer</li>
-      <li>I build real-time systems & dashboards</li>
-    </ul>
-  </div>
+<table>
+  <tr>
+    <td style="width:50%; vertical-align:top;">
 
-  <div style="width: 48%;">
-    <h3>🛠 Tech Stack</h3>
-    <ul>
-      <li>Python, Pandas, NumPy</li>
-      <li>Scikit-Learn, Matplotlib</li>
-      <li>Flask, PowerBI, Excel</li>
-    </ul>
-  </div>
+      <h3>🟣 About Me</h3>
+      <ul>
+        <li>Data Science Student</li>
+        <li>Machine Learning Engineer</li>
+        <li>I build real-time systems & dashboards</li>
+      </ul>
 
-</div>
+    </td>
+    <td style="width:50%; vertical-align:top;">
+
+      <h3>🛠 Tech Stack</h3>
+      <ul>
+        <li>Python, Pandas, NumPy</li>
+        <li>Scikit-Learn, Matplotlib</li>
+        <li>Flask, PowerBI, Excel</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
 
 
 
