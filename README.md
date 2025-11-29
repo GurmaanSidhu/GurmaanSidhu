@@ -1,7 +1,4 @@
 
-<img src="https://raw.githubusercontent.com/GurmaanSidhu/GurmaanSidhu/main/Car%20Pixel%20Art%20GIF%20by%20Raw%20Fury.gif" style="display:block; width:100%; height:180px; object-fit:cover; object-position:center;"  />
-
-
 <div align="center">
   <img src="LINK_TO_YOUR_KNIGHT_IMAGE.jpg" width="100%" alt="The Resting Knight" />
 
