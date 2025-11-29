@@ -1,4 +1,8 @@
 
+![From KlickPin CF Pin by IMAGENESDEFONDO on imagenes de fondo in 2025 _ Anime drawings Anime artwork wallpaper Anime](https://github.com/user-attachments/assets/5a7e749d-c83f-4750-a11f-7ce055b08075)
+
+
+
 <div align="center">
   <img src="LINK_TO_YOUR_KNIGHT_IMAGE.jpg" width="100%" alt="The Resting Knight" />
 
@@ -15,63 +19,3 @@
   </p>
 </div>
 
-
-
-<table>
-  <tr>
-    <td style="width:50%; vertical-align:top;">
-
-      <h3>🟣 About Me</h3>
-      <ul>
-        <li>Data Science Student</li>
-        <li>Machine Learning Engineer</li>
-        <li>I build real-time systems & dashboards</li>
-      </ul>
-
-    </td>
-    <td style="width:50%; vertical-align:top;">
-
-      <h3>🛠 Tech Stack</h3>
-      <ul>
-        <li>Python, Pandas, NumPy</li>
-        <li>Scikit-Learn, Matplotlib</li>
-        <li>Flask, PowerBI, Excel</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
-
-
-
-
-<table>
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3>⚔️ The Identity</h3>
-      <p>
-        I am a <b>3rd Year CSE Undergraduate</b> and an aspiring <b>Machine Learning Engineer</b>.
-      </p>
-      <br/>
-      <blockquote>
-        <i>"I am searching for the spark that rivals the birth of the Internet—a revolution written in code."</i>
-      </blockquote>
-    </td>
-
-    <td width="50%" valign="top" align="right" style="border: none;">
-      <h3>📜 The Creed of the Ronin</h3>
-      <p>
-        I walk the path of the <b>Independent Coder</b>.
-      </p>
-      <br/>
-      <p>
-        <b>No Masters</b> 🚫<br/>
-        <i>I code by will, not by wage.</i>
-      </p>
-      <p>
-        <b>The Mission</b> 🎯<br/>
-        <i>To create works that outlive the creator.</i>
-      </p>
-    </td>
-  </tr>
-</table>
