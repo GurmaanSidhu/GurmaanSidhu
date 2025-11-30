@@ -3,4 +3,4 @@
 - 🚀I like to operate on my own as an independent programmer.
 - 📚Like working with python and cpp.
 - 💻Currently: {{'focus': 'Predictive Models', 'reading': '(for now) nothing', 'building': 'rather not say (*confidential*)
-- ✍️I write my technical insights and deconstructions on Programming & Tech in my (working on it). 
+- ✍️ I write my personal thoughts on Programming & Tech in my Personal Blog. (working on it). 
