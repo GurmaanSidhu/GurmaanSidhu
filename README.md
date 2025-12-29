@@ -4,4 +4,4 @@
 - 📚Like working with python and cpp.
 - 💻Currently: {{'focus': 'Predictive Models', 'reading': '(for now) nothing', 'building': 'rather not say (*confidential*)}}
 - ✍️ I write my personal thoughts on Programming & Tech in my Personal Blog. (working on it). 
-- (discord)['https://discord.gg/DTHk7ERq']
+- [discord](https://discord.gg/DTHk7ERq)
