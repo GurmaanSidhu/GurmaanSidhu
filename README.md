@@ -4,7 +4,7 @@
 - 🎓Currently a 3rd year undergraduate student.
 - 🚀I like to operate on my own as an independent programmer.
 - 📚Like working with python and cpp.
-- 💻Currently: {{'focus': 'Predictive Models', 'reading': '(for now) nothing', 'building': 'rather not say (*confidential*)}}
+- 💻Currently: {{'focus': 'Predictive Models', 'reading': '(Computer Systems A Programmer’s Perspective, by Randal E. Bryant and David R. O'Hallaron) nothing', 'building': 'rather not say (*confidential*)}}
 - ✍️ I write my personal thoughts on Programming & Tech in my Personal Blog. (working on it). 
 - 🫂 *[discord](https://discord.gg/DTHk7ERq)*
 
