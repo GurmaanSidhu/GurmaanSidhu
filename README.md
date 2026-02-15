@@ -6,5 +6,5 @@
 - 📚Like working with **python and cpp**.
 - 💻Currently: {{'focus': '**Predictive Models and DSA**', 'reading': '**Computer Systems A Programmer’s Perspective**', 'building': 'rather not say (*confidential*)}}
 - ✍️ I write my personal thoughts on Programming & Tech in my **Personal Blog**. (working on it). 
-- 🫂 ***[discord](discordapp.com/users/1112701737699131453)***
+- 🫂 ***[discord](https://discordapp.com/users/1112701737699131453)***
 
